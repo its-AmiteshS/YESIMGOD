@@ -4,13 +4,13 @@
 
 ### I'm Amitesh Kr. Singh - aka [YESIMGOD]
 
-### I'm a Student,Coder,Tech-Enthusiast and Gamer  
+### A Student,Coder,Tech-Enthusiast and Developer  
 - 🔭 2nd year CSE Student at JUET,Guna 
-- 🌱 Currently learning and working on Ciphers
-- ⚡ Looking forward to explore more in Cybersecurity and WebDev
+- 🌱 Currently learning and working on Computer Vision
+- ⚡ Looking forward to explore more in Machine Learning and WebDev
 - 😊 Would love to collaborate and work on open source projects
-- 💻 Currently working on Django
-- 🥅 2022 Goal: Projects on Ciphers and many more....
+- 💻 Currently working on Tenserflow
+- 🥅 2022 Goal: Projects on Tenserflow, Computer Vision and many more....
 <br />
 
 ## :trophy: Languages and Tools:
@@ -20,9 +20,9 @@
 
 ## :mailbox: Get in touch: 💬
 
-[<img src="https://logo.letskhabar.com/img?tool=linkedin&acol=gold" width="50px">](https://www.linkedin.com/in/amitesh-kumar-singh-086829196/)
-[<img src="https://logo.letskhabar.com/img?tool=mail&acol=gold" width="50px">](mailto:ristoo2001@gmail.com)
-[<img src="https://logo.letskhabar.com/img?tool=codechef&acol=gold" width="50px">](https://www.codechef.com/users/dr3am)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="50px">](https://www.linkedin.com/in/amitesh-kumar-singh-086829196/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50px">](mailto:ristoo2001@gmail.com)
+[<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" width="50px">](https://www.codechef.com/users/dr3am)
 <br>
 <br>
 
